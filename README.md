@@ -93,7 +93,7 @@ Agriculture seed management application.
 
 - Android: https://play.google.com/store/search?q=bbssl+app&c=apps&hl=en_IN
 
-- IOS: https://apps.apple.com/in/app/tribe-business/id6755714832
+- IOS: https://apps.apple.com/in/app/bharat-beej-bbssl/id6748907019
 
 ---
 
