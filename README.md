@@ -81,11 +81,9 @@
 
 Business networking and community platform.
 
-- Android:
-https://play.google.com/store/apps/details?id=com.tribebusiness.app
+- Android: https://play.google.com/store/apps/details?id=com.tribebusiness.app
 
-- iOS:
-https://apps.apple.com/in/app/tribe-business/id6755714832
+- IOS: https://apps.apple.com/in/app/tribe-business/id6755714832
 
 ---
 
@@ -93,7 +91,9 @@ https://apps.apple.com/in/app/tribe-business/id6755714832
 
 Agriculture seed management application.
 
-https://play.google.com/store/apps/details?id=com.bharatbeej
+- Android: https://play.google.com/store/search?q=bbssl+app&c=apps&hl=en_IN
+
+- IOS: https://apps.apple.com/in/app/tribe-business/id6755714832
 
 ---
 
@@ -101,6 +101,8 @@ https://play.google.com/store/apps/details?id=com.bharatbeej
 
 - Flutter
 - Dart
+- JAVA
+- Kotlin
 - Firebase
 - AWS Amplify
 - Clean Architecture
@@ -133,9 +135,7 @@ https://play.google.com/store/apps/details?id=com.bharatbeej
 
 📧 **Email:** abhishek.dev.app@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-
-💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-kumar-548b84192
 
 ---
 
